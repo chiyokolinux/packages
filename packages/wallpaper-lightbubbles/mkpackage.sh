@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "nothing to be done for wallpaper-whitebubbles"
+echo "nothing to be done for wallpaper-lightbubbles"

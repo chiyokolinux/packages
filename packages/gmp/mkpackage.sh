@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "nothing to be done for gmp"
+echo "nothing to be done for gmp-generic"

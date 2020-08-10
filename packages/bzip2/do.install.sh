@@ -1,5 +1,6 @@
-#!/bin/bash 
+#!/bin/bash
 make PREFIX=/usr install
+
 cp -v bzip2-shared /bin/bzip2
 cp -av libbz2.so* /lib
 ln -sv ../../lib/libbz2.so.1.0 /usr/lib/libbz2.so

@@ -1,0 +1,3 @@
+#!/bin/bash
+make install
+chmod -v 0755 /usr/lib/preloadable_libintl.so

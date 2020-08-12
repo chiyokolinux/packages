@@ -1,0 +1,3 @@
+#!/bin/bash
+make install
+make TEXMF=/usr/share/texmf install-tex

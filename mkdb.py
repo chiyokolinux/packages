@@ -20,7 +20,7 @@ for package in pkgs:
         lines = [i.strip() for i in pkgf.readlines()]
         pkgindex[package] = {}
         for line in lines:
-            pkgindex[package][line.split("=")[0]] = line.split("=")[1]
+            pkgindex[package][line[:line.find('=')]] = line[line.find('=')+1:]
 print(f'Parsed {str(len(pkgindex))} package.conf files!')
 
 print("Writing packages.db...")

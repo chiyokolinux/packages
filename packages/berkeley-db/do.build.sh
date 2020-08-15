@@ -1,2 +1,2 @@
 #!/bin/bash 
-cd build_unix                        &&
+cd build_unix

@@ -1,5 +1,5 @@
  #!/bin/bash
 cd ..
-export SRCDIR=`pwd` &&
+export SRCDIR=`pwd`
 
-cd unix &&
+cd unix

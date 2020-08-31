@@ -36,6 +36,7 @@ nothing to be done for expat
 nothing to be done for file
 nothing to be done for findutils
 nothing to be done for flex
+nothing to be done for freeglut
 nothing to be done for freetype
 nothing to be done for fribidi
 nothing to be done for gawk
@@ -103,6 +104,7 @@ nothing to be done for m4
 nothing to be done for make
 nothing to be done for man-db
 nothing to be done for man-pages
+nothing to be done for template
 nothing to be done for meson
 nothing to be done for mpc
 nothing to be done for mpfr

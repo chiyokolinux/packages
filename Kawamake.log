@@ -76,6 +76,7 @@ nothing to be done for libarchive
 nothing to be done for libassuan
 nothing to be done for libcap
 nothing to be done for libcroco
+nothing to be done for libdrm
 nothing to be done for libedit
 nothing to be done for libelf
 nothing to be done for libevent
@@ -104,7 +105,7 @@ nothing to be done for m4
 nothing to be done for make
 nothing to be done for man-db
 nothing to be done for man-pages
-nothing to be done for template
+nothing to be done for mesa
 nothing to be done for meson
 nothing to be done for mpc
 nothing to be done for mpfr
@@ -154,6 +155,7 @@ nothing to be done for wallpaper-gruvbox-dark
 nothing to be done for wallpaper-gruvbox-light
 nothing to be done for wallpaper-lightbubbles
 nothing to be done for wallpaper-logo
+nothing to be done for wallpaper-mountain
 nothing to be done for wallpaper-slogandark
 nothing to be done for which
 nothing to be done for xml-parser

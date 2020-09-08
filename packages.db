@@ -188,3 +188,4 @@ speex;Speex is an audio compression format designed especially for speech. It is
 owo;cli owo-ifier written in C;0.1;https://github.com/kittenmilk/owo/archive/v${VERSION}.tar.gz;Jonas Jaguar <jonasjaguar@jagudev.net>;;;;;source;no;rm -f /usr/bin/owo;NONE;do.install.sh
 sls;Extremely simple su utility;0.2.0;https://github.com/illiliti/sls/archive/${VERSION}.tar.gz;Jonas Jaguar <jonasjaguar@jagudev.net>;;;;;source;no;make PREFIX=/usr uninstall;GPLv3;do.install.sh post.install.sh
 neofetch;A command-line system information tool written in bash 3.2+;7.1.0;https://github.com/dylanaraps/neofetch/archive/${VERSION}.tar.gz;Jonas Jaguar <jonasjaguar@jagudev.net>;feh;;;;source;no;make uninstall;MIT;do.build.sh
+sl;Cure your bad habit of mistyping;5.02;https://github.com/mtoyoda/sl/archive/${VERSIOn}.tar.gz;Jonas Jaguar <jonasjaguar@jagudev.net>;;;;;source;no;rm -f /usr/bin/sl;FREEOTHER;do.install.sh

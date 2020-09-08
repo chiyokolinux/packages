@@ -1,6 +1,7 @@
 Running mkpackage.sh for every package in packages...
 nothing to be done for aalib
 nothing to be done for acl
+nothing to be done for alsa-lib
 nothing to be done for apr
 nothing to be done for aspell
 nothing to be done for aspell-dict-de
@@ -36,6 +37,7 @@ nothing to be done for eudev
 nothing to be done for expat
 nothing to be done for file
 nothing to be done for findutils
+nothing to be done for flac
 nothing to be done for flex
 nothing to be done for freeglut
 nothing to be done for freetype
@@ -91,16 +93,19 @@ nothing to be done for libical
 nothing to be done for libidn2
 nothing to be done for libjpeg-turbo
 nothing to be done for libksba
+nothing to be done for libogg
 nothing to be done for libpipeline
 nothing to be done for libpng
 nothing to be done for libpwquality
 nothing to be done for libpwquality-python3
 nothing to be done for librsvg
+nothing to be done for libsndfile
 nothing to be done for libtiff
 nothing to be done for libtool
 nothing to be done for libunistring
 nothing to be done for libva
 nothing to be done for libvdpau
+nothing to be done for libvorbis
 nothing to be done for libwebp
 nothing to be done for libxml2
 nothing to be done for libyaml
@@ -128,6 +133,7 @@ nothing to be done for ninja
 nothing to be done for npth
 nothing to be done for nspr
 nothing to be done for openssl
+nothing to be done for owo
 nothing to be done for p7zip
 nothing to be done for pango
 nothing to be done for patch
@@ -151,6 +157,7 @@ nothing to be done for shadow
 nothing to be done for shared-mime-info
 nothing to be done for sharutils
 nothing to be done for slang
+nothing to be done for speex
 nothing to be done for sqlite
 nothing to be done for sysklogd
 nothing to be done for tar

@@ -1,4 +1,4 @@
- #!/bin/bash
+#!/bin/bash
 [*] Enable loadable module support  --->  [CONFIG_MODULES]
 
 Bus options (PCI etc.)  --->

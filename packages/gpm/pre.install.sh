@@ -1,4 +1,4 @@
- #!/bin/bash
+#!/bin/bash
 Device Drivers  --->
   Input device support ---> [CONFIG_INPUT]
     <*/M> Mouse interface   [CONFIG_INPUT_MOUSEDEV]

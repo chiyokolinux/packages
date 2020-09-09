@@ -1,4 +1,4 @@
- #!/bin/bash
+#!/bin/bash
 cd ..
 case $(uname -m) in
   x86_64)

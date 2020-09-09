@@ -1,4 +1,4 @@
- #!/bin/bash
+#!/bin/bash
 tar -xf ../clang-9.0.1.src.tar.xz -C tools
 tar -xf ../compiler-rt-9.0.1.src.tar.xz -C projects
 

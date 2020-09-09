@@ -10,6 +10,7 @@ nothing to be done for atk
 nothing to be done for attr
 nothing to be done for autoconf
 nothing to be done for automake
+nothing to be done for avahi
 nothing to be done for badwm
 nothing to be done for bash
 nothing to be done for readline
@@ -54,6 +55,7 @@ nothing to be done for glu
 nothing to be done for gmp
 nothing to be done for gmp-generic
 nothing to be done for gnupg
+nothing to be done for gnutls
 nothing to be done for gobject-introspection
 nothing to be done for gperf
 nothing to be done for gpm
@@ -63,6 +65,7 @@ nothing to be done for groff
 nothing to be done for grub
 nothing to be done for gtk+2-24
 nothing to be done for gtk-doc
+nothing to be done for guile
 nothing to be done for gzip
 nothing to be done for harfbuzz
 nothing to be done for iana-etc
@@ -81,6 +84,7 @@ nothing to be done for libassuan
 nothing to be done for libatomic_ops
 nothing to be done for libcap
 nothing to be done for libcroco
+nothing to be done for libdeamon
 nothing to be done for libdrm
 nothing to be done for libedit
 nothing to be done for libelf
@@ -100,9 +104,11 @@ nothing to be done for libpwquality
 nothing to be done for libpwquality-python3
 nothing to be done for librsvg
 nothing to be done for libsndfile
+nothing to be done for libtasn
 nothing to be done for libtiff
 nothing to be done for libtool
 nothing to be done for libunistring
+nothing to be done for libuv
 nothing to be done for libva
 nothing to be done for libvdpau
 nothing to be done for libvorbis
@@ -114,6 +120,7 @@ nothing to be done for linux-headers
 nothing to be done for llvm
 nothing to be done for lm-sensors
 nothing to be done for lsb-tools
+nothing to be done for lynx
 nothing to be done for lzo
 nothing to be done for m4
 nothing to be done for make
@@ -133,8 +140,10 @@ nothing to be done for nettle
 nothing to be done for ninja
 nothing to be done for npth
 nothing to be done for nspr
+nothing to be done for nss
 nothing to be done for openssl
 nothing to be done for owo
+nothing to be done for p11-kit
 nothing to be done for p7zip
 nothing to be done for pango
 nothing to be done for patch

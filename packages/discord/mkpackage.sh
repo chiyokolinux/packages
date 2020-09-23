@@ -9,6 +9,7 @@ cat <<EOF > package.conf
 NAME=discord
 DESCRIPTION=All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.
 VERSION=${PKGVERSION}
+ARCHIVEURL=https://raw.githubusercontent.com/chiyokolinux/packages/nonfree/packages/\${NAME}/archives/\${NAME}-\${VERSION}.tar.gz
 MAINTAINER=Jonas Jaguar <jonasjaguar@jagudev.net>
 DEPENDS=glibc alsa-lib gcc gconf libnotify nspr nss libstdc++ xorg-lib libindicator llvm
 CONFLICTS=
@@ -18,5 +19,6 @@ TYPE=binary
 SEPBUILD=no
 UNINSTALLCMD=
 LICENSE=OTHER
+SCRIPTS=post.install.sh
 EOF
 rm control.tar.gz control debian-binary discord.deb

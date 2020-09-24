@@ -21,6 +21,7 @@ nothing to be done for bind
 nothing to be done for binutils
 nothing to be done for bison
 nothing to be done for boost
+nothing to be done for bubblewrap
 nothing to be done for bzip2
 nothing to be done for cairo
 nothing to be done for check
@@ -74,6 +75,7 @@ nothing to be done for guile
 nothing to be done for gzip
 nothing to be done for harfbuzz
 nothing to be done for hd2u
+nothing to be done for hdparm
 nothing to be done for iana-etc
 nothing to be done for ichirou
 nothing to be done for icu
@@ -182,6 +184,7 @@ nothing to be done for pyyaml
 nothing to be done for readline
 nothing to be done for sdl
 nothing to be done for sed
+nothing to be done for sg3-utils
 nothing to be done for sgml-common
 nothing to be done for shadow
 nothing to be done for shared-mime-info
@@ -194,6 +197,7 @@ nothing to be done for speex
 nothing to be done for sqlite
 nothing to be done for subversion
 nothing to be done for sysklogd
+nothing to be done for sysstat
 nothing to be done for tar
 nothing to be done for tcl
 nothing to be done for template

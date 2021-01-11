@@ -28,6 +28,9 @@ nothing to be done for cairo
 [      cbsh      ] found version 0.1, updating package.conf...
 [      cbsh      ] updated package cbsh to version 0.1
 nothing to be done for check
+[      chi       ] updating chi...
+[      chi       ] found version 1.1.1, updating package.conf...
+[      chi       ] updated package chi to version 1.1.1
 nothing to be done for cmake
 nothing to be done for compface
 nothing to be done for coreutils

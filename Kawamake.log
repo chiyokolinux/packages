@@ -24,13 +24,20 @@ nothing to be done for boost
 nothing to be done for bubblewrap
 nothing to be done for bzip2
 nothing to be done for cairo
+[      cbsh      ] updating cbsh...
+[      cbsh      ] found version 0.1, updating package.conf...
+[      cbsh      ] updated package cbsh to version 0.1
 nothing to be done for check
 nothing to be done for cmake
 nothing to be done for compface
 nothing to be done for coreutils
 nothing to be done for cracklib
 nothing to be done for curl
+nothing to be done for cyrussasl
 nothing to be done for dash
+[    destlink    ] updating destlink...
+[    destlink    ] found version 1.0, updating package.conf...
+[    destlink    ] updated package destlink to version 1.0
 nothing to be done for diffutils
 nothing to be done for docbook-xml
 nothing to be done for docbook-xsl-nons
@@ -50,6 +57,7 @@ nothing to be done for fribidi
 nothing to be done for gawk
 nothing to be done for gc
 nothing to be done for gcc
+nothing to be done for gcr
 nothing to be done for gdb
 nothing to be done for gdbm
 nothing to be done for gdk-pixbuf
@@ -60,6 +68,7 @@ nothing to be done for glibc
 nothing to be done for glu
 nothing to be done for gmp
 nothing to be done for gmp-generic
+nothing to be done for gnome-keyring
 nothing to be done for gnupg
 nothing to be done for gnutls
 nothing to be done for gobject-introspection
@@ -116,6 +125,7 @@ nothing to be done for liblinear
 nothing to be done for libogg
 nothing to be done for libpipeline
 nothing to be done for libpng
+nothing to be done for libpsl
 nothing to be done for libpwquality
 nothing to be done for libpwquality-python3
 nothing to be done for librsvg
@@ -136,6 +146,7 @@ nothing to be done for libxml2
 nothing to be done for libyaml
 nothing to be done for links
 nothing to be done for linux-headers
+nothing to be done for littlecms
 nothing to be done for llvm
 nothing to be done for lm-sensors
 nothing to be done for lsb-tools
@@ -182,6 +193,7 @@ nothing to be done for python
 nothing to be done for python2-7
 nothing to be done for pyyaml
 nothing to be done for readline
+nothing to be done for ruby
 nothing to be done for scons
 nothing to be done for sdl
 nothing to be done for sed
@@ -210,6 +222,7 @@ nothing to be done for unixodbc
 nothing to be done for unrar
 nothing to be done for unzip
 nothing to be done for util-linux
+nothing to be done for vala
 nothing to be done for valgrind
 nothing to be done for vim
 nothing to be done for wallpaper-chungus
@@ -222,6 +235,7 @@ nothing to be done for wallpaper-mountain
 nothing to be done for wallpaper-slogandark
 nothing to be done for wayland
 nothing to be done for wayland-protocols
+nothing to be done for wget
 nothing to be done for which
 nothing to be done for xapian
 nothing to be done for xdg-user-dirs

@@ -89,7 +89,9 @@ nothing to be done for harfbuzz
 nothing to be done for hd2u
 nothing to be done for hdparm
 nothing to be done for iana-etc
-nothing to be done for ichirou
+[    ichirou     ] updating ichirou...
+[    ichirou     ] found version 1.7, updating package.conf...
+[    ichirou     ] updated package ichirou to version 1.7
 nothing to be done for icu
 nothing to be done for inteutils
 nothing to be done for intltool

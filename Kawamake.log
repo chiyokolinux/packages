@@ -39,8 +39,8 @@ nothing to be done for curl
 nothing to be done for cyrussasl
 nothing to be done for dash
 [    destlink    ] updating destlink...
-[    destlink    ] found version 1.0, updating package.conf...
-[    destlink    ] updated package destlink to version 1.0
+[    destlink    ] found version 1.1, updating package.conf...
+[    destlink    ] updated package destlink to version 1.1
 nothing to be done for diffutils
 nothing to be done for docbook-xml
 nothing to be done for docbook-xsl-nons

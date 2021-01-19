@@ -21,6 +21,11 @@ nothing to be done for bind
 nothing to be done for binutils
 nothing to be done for bison
 nothing to be done for boost
+[    bsdiff      ] updating bsdiff...
+[    bsdiff      ] found version 4.3, updating package.conf...
+[    bsdiff      ] updated package bsdiff to version 4.3
+[    bsdiff      ] [ patches ] nothing to be done for bsdiff-fix-heap-vul
+[    bsdiff      ] [ patches ] nothing to be done for bsdiff-improve-makefile
 nothing to be done for bubblewrap
 nothing to be done for bzip2
 nothing to be done for cairo

@@ -1,16 +1,17 @@
 --- a/Makefile
 +++ b/Makefile
-@@ -1,15 +1,31 @@
+@@ -1,15 +1,29 @@
 -CFLAGS		+=	-O3 -lbz2
 +СС		?=	gcc
-+CFLAGS		+=	-O2 -Wall -std=gnu89
++CFLAGS		+=	-O2 -std=gnu89
 +LDFLAGS		+=	-lbz2
 +INSTALL		?=	install
  
- PREFIX		?=	/usr/local
+-PREFIX		?=	/usr/local
 -INSTALL_PROGRAM	?=	${INSTALL} -c -s -m 555
 -INSTALL_MAN	?=	${INSTALL} -c -m 444
-+MANDIR		?=	$(PREFIX)/share/man
++PREFIX		?=	/usr
++MANPREFIX	?=	$(PREFIX)/share/man
  
 -all:		bsdiff bspatch
 -bsdiff:		bsdiff.c
@@ -32,13 +33,11 @@
 -.endif
 +	$(INSTALL) -Dpm 0755 bsdiff $(DESTDIR)$(PREFIX)/bin/bsdiff
 +	$(INSTALL) -Dpm 0755 bspatch $(DESTDIR)$(PREFIX)/bin/bspatch
-+ifndef WITHOUT_MAN
-+	$(INSTALL) -Dpm 0644 bsdiff.1 $(DESTDIR)$(MANDIR)/man1/bsdiff.1
-+	$(INSTALL) -Dpm 0644 bspatch.1 $(DESTDIR)$(MANDIR)/man1/bspatch.1
-+endif
++	$(INSTALL) -Dpm 0644 bsdiff.1 $(DESTDIR)$(MANPREFIX)/man1/bsdiff.1
++	$(INSTALL) -Dpm 0644 bspatch.1 $(DESTDIR)$(MANPREFIX)/man1/bspatch.1
 +
 +uninstall:
-+	rm -fv $(DESTDIR)$(MANDIR)/bin/bsdiff
-+	rm -fv $(DESTDIR)$(MANDIR)/bin/bspatch
-+	rm -fv $(DESTDIR)$(MANDIR)/man1/bsdiff.1
-+	rm -fv $(DESTDIR)$(MANDIR)/man1/bspatch.1
++	rm -f $(DESTDIR)$(PREFIX)/bin/bsdiff
++	rm -f $(DESTDIR)$(PREFIX)/bin/bspatch
++	rm -f $(DESTDIR)$(MANPREFIX)/man1/bsdiff.1
++	rm -f $(DESTDIR)$(MANPREFIX)/man1/bspatch.1

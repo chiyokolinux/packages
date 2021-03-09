@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 #############################################################
-# mkdb.py, by Jonas Jaguar <jonasjaguar at jagudev dot net> #
+# mkdb.py, by Emily <elishikawa at jagudev dot net>         #
 # creates a packages.db (CSV) file that contains all pkgs   #
 # with metadata, alphabetically sorted                      #
 #############################################################

@@ -221,9 +221,11 @@ nothing to be done for sharutils
 nothing to be done for six
 nothing to be done for sl
 nothing to be done for slang
-nothing to be done for sls
 nothing to be done for speex
 nothing to be done for sqlite
+[      ssu       ] updating ssu...
+[      ssu       ] found version 0.3.2, updating package.conf...
+[      ssu       ] updated package ssu to version 0.3.2
 nothing to be done for subversion
 nothing to be done for sysklogd
 nothing to be done for sysstat

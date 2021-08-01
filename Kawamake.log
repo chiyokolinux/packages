@@ -237,6 +237,9 @@ nothing to be done for template
 nothing to be done for texinfo
 nothing to be done for time
 nothing to be done for tree
+[   tty-clock    ] updating tty-clock...
+[   tty-clock    ] found version 2.3, updating package.conf...
+[   tty-clock    ] updated package tty-clock to version 2.3
 nothing to be done for unixodbc
 nothing to be done for unrar
 nothing to be done for unzip

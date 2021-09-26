@@ -124,6 +124,9 @@ nothing to be done for libelf
 nothing to be done for libevent
 nothing to be done for libffi
 nothing to be done for libffi-generic
+nothing to be done for libfftw3
+nothing to be done for libfftw3f
+nothing to be done for libfftw3l
 nothing to be done for libgcrypt
 nothing to be done for libglade
 nothing to be done for libgpg-error
@@ -170,6 +173,9 @@ nothing to be done for man-pages
 nothing to be done for markupsafe
 nothing to be done for mesa
 nothing to be done for meson
+[   minimodem    ] updating minimodem
+[   minimodem    ] found version , updating package.conf...
+[   minimodem    ] updated package minimodem to version 
 nothing to be done for mpc
 nothing to be done for mpfr
 nothing to be done for mtdev

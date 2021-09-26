@@ -125,14 +125,14 @@ nothing to be done for libevent
 nothing to be done for libffi
 nothing to be done for libffi-generic
 [    libfftw3    ] updating libfftw3
-[    libfftw3    ] found version , updating package.conf...
-[    libfftw3    ] updated package libfftw3 to version 
+[    libfftw3    ] found version 3.3.10, updating package.conf...
+[    libfftw3    ] updated package libfftw3 to version 3.3.10
 [    libfftw3f   ] updating libfftw3f
-[    libfftw3f   ] found version , updating package.conf...
-[    libfftw3f   ] updated package libfftw3f to version 
+[    libfftw3f   ] found version 3.3.10, updating package.conf...
+[    libfftw3f   ] updated package libfftw3f to version 3.3.10
 [    libfftw3l   ] updating libfftw3l
-[    libfftw3l   ] found version , updating package.conf...
-[    libfftw3l   ] updated package libfftw3l to version 
+[    libfftw3l   ] found version 3.3.10, updating package.conf...
+[    libfftw3l   ] updated package libfftw3l to version 3.3.10
 nothing to be done for libgcrypt
 nothing to be done for libglade
 nothing to be done for libgpg-error

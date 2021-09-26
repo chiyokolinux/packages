@@ -180,8 +180,8 @@ nothing to be done for markupsafe
 nothing to be done for mesa
 nothing to be done for meson
 [   minimodem    ] updating minimodem
-[   minimodem    ] found version     "name": "minimodem-0.24",, updating package.conf...
-[   minimodem    ] updated package minimodem to version     "name": "minimodem-0.24",
+[   minimodem    ] found version 0.24, updating package.conf...
+[   minimodem    ] updated package minimodem to version 0.24
 nothing to be done for mpc
 nothing to be done for mpfr
 nothing to be done for mtdev

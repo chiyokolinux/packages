@@ -2,7 +2,7 @@
 echo "[    libfftw3    ] updating libfftw3"
 
 # fetch latest fftw.org (3.x.x) release version
-PKG_VERSION=$(curl -s "https://www.fftw.org/download.html" | grep -o "fftw-3\.[0-9]\+\.[0-9]\+\.tar.gz" | uniq | sort | tail -n1 | grep -o "3.[0-9]+.[0-9]+")
+PKG_VERSION=$(curl -s "https://www.fftw.org/download.html" | grep -o "fftw-3\.[0-9]\+\.[0-9]\+\.tar.gz" | uniq | sort | tail -n1 | grep -o "3\.[0-9]\+\.[0-9]\+")
 
 echo "[    libfftw3    ] found version ${PKG_VERSION}, updating package.conf..."
 

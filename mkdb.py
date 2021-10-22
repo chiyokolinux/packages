@@ -26,7 +26,7 @@ print(f'Parsed {str(len(pkgindex))} package.conf files!')
 print("Writing packages.db...")
 pkgc = 0
 with open('packages.db', 'w') as pkgdbfile:
-    writer = csv.DictWriter(pkgdbfile, fieldnames=['NAME', 'DESCRIPTION', 'VERSION', 'ARCHIVEURL', 'MAINTAINER', 'DEPENDS', 'CONFLICTS', 'CONFIGURECMD', 'CONFIGUREOPTS', 'TYPE', 'SEPBUILD', 'UNINSTALLCMD', 'LICENSE', 'SCRIPTS'], delimiter=';')
+    writer = csv.DictWriter(pkgdbfile, fieldnames=['NAME', 'DESCRIPTION', 'VERSION', 'ARCHIVEURL', 'MAINTAINER', 'DEPENDS', 'CONFLICTS', 'CONFIGURECMD', 'CONFIGUREOPTS', 'TYPE', 'SEPBUILD', 'UNINSTALLCMD', 'LICENSE', 'SCRIPTS'], delimiter=';', quoting=csv.QUOTE_NONE, quotechar=';')
     for pkgobj in list(pkgindex.values()):
         writer.writerow(pkgobj)
         pkgc += 1

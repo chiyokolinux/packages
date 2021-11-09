@@ -177,6 +177,9 @@ nothing to be done for mako
 nothing to be done for man-db
 nothing to be done for man-pages
 nothing to be done for markupsafe
+[    md2roff     ] updating md2roff...
+[    md2roff     ] found version 08f172fd, updating package.conf...
+[    md2roff     ] updated package md2roff to version 08f172fd
 nothing to be done for mesa
 nothing to be done for meson
 [   minimodem    ] updating minimodem

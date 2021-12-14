@@ -1,3 +1,3 @@
 #!/bin/bash
-mv -v /usr/lib/libz.so.* /lib
-ln -sfv ../../lib/$(readlink /usr/lib/libz.so) /usr/lib/libz.so 
+mv -v ${DESTDIR}/usr/lib/libz.so.* "${DESTDIR}/lib"
+ln -sfv "${DESTDIR}/lib/$(readlink "${DESTDIR}/usr/lib/libz.so")" "${DESTDIR}/usr/lib/libz.so"

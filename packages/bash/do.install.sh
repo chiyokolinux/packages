@@ -1,3 +1,3 @@
 #!/bin/bash
 make install
-mv -vf /usr/bin/bash /bin
+mv -vf "${DESTDIR}/usr/bin/bash" "${DESTDIR}/bin"

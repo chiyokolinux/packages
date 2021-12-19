@@ -1,6 +1,6 @@
 #!/bin/bash
 
 make install
-mv -v   /usr/bin/{lzma,unlzma,lzcat,xz,unxz,xzcat} /bin
-mv -v /usr/lib/liblzma.so.* /lib
-ln -svf ../../lib/$(readlink /usr/lib/liblzma.so) /usr/lib/liblzma.so
+mv -v ${DESTDIR}/usr/bin/{lzma,unlzma,lzcat,xz,unxz,xzcat} ${DESTDIR}/bin
+mv -v ${DESTDIR}/usr/lib/liblzma.so.* ${DESTDIR}/lib
+ln -svf ../../lib/$(readlink /usr/lib/liblzma.so) ${DESTDIR}/usr/lib/liblzma.so

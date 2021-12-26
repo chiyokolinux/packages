@@ -1,4 +1,4 @@
 #!/bin/bash
-cat >> /etc/shells << "EOF"
+cat >> ${DESTDIR}/etc/shells << "EOF"
 /bin/dash
 EOF

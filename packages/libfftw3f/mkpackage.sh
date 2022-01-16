@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "[    libfftw3f   ] updating libfftw3f"
+echo "[    libfftw3f   ] updating libfftw3f..."
 
 # just follow main libfftw3 package version
 PKG_VERSION=$(grep -o "^VERSION=[0-9\.\-]*$" packages/libfftw3/package.conf | sed "s/VERSION=//")

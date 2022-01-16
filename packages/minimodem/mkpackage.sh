@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "[   minimodem    ] updating minimodem"
+echo "[   minimodem    ] updating minimodem..."
 
 # fetch latest github release version
 PKG_VERSION=$(curl -u "${GITHUB_USER_NAME}:${GITHUB_API_TOKEN}" -s "https://api.github.com/repos/kamalmostafa/minimodem/tags" | grep " *\"name\":" | head -n1 | sed -E 's/^.*: ?\"(minimodem-)?([0-9\.\-]+)\",?/\2/' | sed -e 's/-1//')

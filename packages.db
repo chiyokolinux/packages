@@ -258,3 +258,4 @@ minilisp;A readable lisp in less than 1k lines of C;71d59141;https://github.com/
 chadstr;The Chad way to handle strings in C.;8a2b5588;https://github.com/skullchap/${NAME}/archive/${VERSION}.tar.gz;Emily <elishikawa@jagudev.net>;;;;;source;no;file_uninstall;GPLv3;do.build.sh do.install.sh
 libchadstr;The Chad way to handle strings in C. Shared Library;8a2b5588;pkg://chadstr;Emily <elishikawa@jagudev.net>;chadstr;;;;source;no;file_uninstall;GPLv3;do.build.sh do.install.sh
 sectorlisp;sectorlisp is a 512-byte implementation of LISP that's able to bootstrap John McCarthy's meta-circular evaluator;194181a7;https://github.com/jart/${NAME}/archive/${VERSION}.tar.gz;Emily <elishikawa@jagudev.net>;;;;;source;no;file_uninstall;ISC;do.build.sh do.install.sh
+sectorlisp-boot-image;Bootable LISP interpreter in 1 boot sector (512 bytes);194181a7;pkg://sectorlisp;Emily <elishikawa@jagudev.net>;;;;;source;no;file_uninstall;ISC;do.build.sh do.install.sh

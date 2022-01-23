@@ -268,3 +268,4 @@ bestline;ANSI Standard X3.64 Teletypewriter Command Session Library;8ab535e6;htt
 libbestline;ANSI Standard X3.64 Teletypewriter Command Session Library. Shared library;8ab535e6;pkg://bestline;Emily <elishikawa@jagudev.net>;;;;;source;no;file_uninstall;2BSD;do.build.sh do.install.sh
 microtar;A lightweight tar library written in ANSI C;95679177;https://github.com/rxi/${NAME}/archive/${VERSION}.tar.gz;Emily <elishikawa@jagudev.net>;libmicrotar;;;;source;no;file_uninstall;MIT;do.build.sh do.install.sh
 libmicrotar;A lightweight tar library written in ANSI C. Shared library;95679177;pkg://microtar;Emily <elishikawa@jagudev.net>;;;;;source;no;file_uninstall;MIT;do.build.sh do.install.sh
+gti;A silly git launcher;1.6.1;https://github.com/rwos/${NAME}/archive/v${VERSION}.tar.gz;Emily <elishikawa@jagudev.net>;;;;;source;no;file_uninstall;FREEOTHER;

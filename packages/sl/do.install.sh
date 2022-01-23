@@ -1,2 +1,2 @@
 #!/bin/bash
-cp sl /usr/bin
+install -v -m755 sl "${DESTDIR}/usr/bin"

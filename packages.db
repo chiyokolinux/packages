@@ -269,3 +269,4 @@ libbestline;ANSI Standard X3.64 Teletypewriter Command Session Library. Shared l
 microtar;A lightweight tar library written in ANSI C;27076e1b;https://github.com/rxi/${NAME}/archive/${VERSION}.tar.gz;Emily <elishikawa@jagudev.net>;libmicrotar;;;;source;no;file_uninstall;MIT;do.build.sh do.install.sh
 libmicrotar;A lightweight tar library written in ANSI C. Shared library;95679177;pkg://microtar;Emily <elishikawa@jagudev.net>;;;;;source;no;file_uninstall;MIT;do.build.sh do.install.sh
 gti;A silly git launcher;1.7.0;https://github.com/rwos/${NAME}/archive/v${VERSION}.tar.gz;Emily <elishikawa@jagudev.net>;;;;;source;no;file_uninstall;FREEOTHER;
+kilo;A text editor in less than 1000 LOC with syntax highlight and search.;7709a04a;https://github.com/antirez/${NAME}/archive/${VERSION}.tar.gz;Emily <elishikawa@jagudev.net>;;;;;source;no;file_uninstall;2BSD;do.install.sh

@@ -2,7 +2,7 @@
 echo "[      nano      ] updating nano..."
 
 # fetch latest nano-editor.org (v5) release version
-PKG_VERSION=$(curl -s "https://www.nano-editor.org/dist/v5/" | grep -o "nano-[0-9].[0-9]*.tar.xz" | uniq | sort | tail -n1 | grep -o "[0-9]\.[0-9]*")
+PKG_VERSION=$(curl -s "https://www.nano-editor.org/dist/v6/" | grep -o "nano-[0-9].[0-9]*.tar.xz" | uniq | sort | tail -n1 | grep -o "[0-9]\.[0-9]*")
 
 echo "[      nano      ] found version ${PKG_VERSION}, updating package.conf..."
 
